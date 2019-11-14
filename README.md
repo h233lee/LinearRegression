@@ -1,1 +1,1 @@
-# This project predicts house prices using linear regression and calculates the Root Mean Squared Error
+# This project predicts house prices using linear regression and validates the accuracy using evaluation metrics
